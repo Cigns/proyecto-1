@@ -1,7 +1,12 @@
 body {
     background: linear-gradient(white, grey);
     width: auto;
-    height: auto;    
+    height: auto;
+    font-family: sans-serif;  
+}
+
+ul li {
+    font-weight: bold;
 }
 
 #jumbotron-img {
@@ -33,7 +38,7 @@ figure {
 }
 
 footer {
-    background-color: white;
+    background-color: black;
     margin-top: 4rem;
     padding: 2rem 1rem;
 }
@@ -44,5 +49,5 @@ footer li {
 
 footer li a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
