@@ -38,9 +38,11 @@ figure {
 }
 
 footer {
-    background-color: black;
+    background-image: url(/images/fondo_footer.jpg);
     margin-top: 4rem;
     padding: 2rem 1rem;
+    background-size: contain;
+    opacity: 1;
 }
 
 footer li {
